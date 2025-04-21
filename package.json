@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MyPureCloud/ChatDemoSite",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.19.2"
   },
   "devDependencies" : {
       "grunt-bower-task" : "0.4.0",
